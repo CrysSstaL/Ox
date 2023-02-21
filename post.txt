@@ -1,0 +1,24 @@
+{
+  "args": {}, 
+  "data": "{\"teacher1\": [\"student1\", \"student2\"], \"teacher2\": \"student3\"}", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Content-Length": "62", 
+    "Content-Type": "application/json", 
+    "Host": "httpbin.org", 
+    "User-Agent": "python-requests/2.28.2", 
+    "X-Amzn-Trace-Id": "Root=1-63f385cf-67dd22706eb60a1803eab939"
+  }, 
+  "json": {
+    "teacher1": [
+      "student1", 
+      "student2"
+    ], 
+    "teacher2": "student3"
+  }, 
+  "origin": "95.52.107.41", 
+  "url": "https://httpbin.org/post"
+}
